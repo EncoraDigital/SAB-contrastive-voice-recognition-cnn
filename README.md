@@ -1,1 +1,1 @@
-# contrastive-voice-recognition-cnn
+# Deep Contrastive Voice Recognition in Pytorch
